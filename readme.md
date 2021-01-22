@@ -1,5 +1,5 @@
 
-##lab 2
+## lab 2
 ***
 **I harvest geotagged data in mainland United States, Canada, and SouthEast China. The data is aquired using crawler aided by Twitter's API. The data is gathered in a period of two mins**
 ***
